@@ -208,7 +208,7 @@ nav{
 }
 .social_icons{
     a:link {
-  color: green;
+  color: transparent;
   background-color: transparent;
   text-decoration: none;
 }
@@ -223,7 +223,7 @@ a:hover {
   text-decoration: underline;
 }
 a:active {
-  color: yellow;
+  color: transparent;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -542,7 +542,7 @@ footer{
 }
 .footer-social-icons{
  a:link {
-  color: green;
+  color: transparent;
   background-color: transparent;
   text-decoration: none;
 }
@@ -557,7 +557,7 @@ a:hover {
   text-decoration: underline;
 }
 a:active {
-  color: yellow;
+  color: transparent;
   background-color: transparent;
   text-decoration: underline;
 }
