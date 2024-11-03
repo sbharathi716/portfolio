@@ -208,12 +208,12 @@ nav{
 }
 .social_icons{
     a:link {
-  color: transparent;
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }
 a:visited {
-  color: transparent;
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }
@@ -223,7 +223,7 @@ a:hover {
   text-decoration: underline;
 }
 a:active {
-  color: transparent;
+  color: black;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -542,12 +542,12 @@ footer{
 }
 .footer-social-icons{
  a:link {
-  color: transparent;
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }
 a:visited {
-  color: transparent;
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }
@@ -557,7 +557,7 @@ a:hover {
   text-decoration: underline;
 }
 a:active {
-  color: transparent;
+  color: black;
   background-color: transparent;
   text-decoration: underline;
 }
